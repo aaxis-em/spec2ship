@@ -1,0 +1,11 @@
+{
+  "name": "spec-to-ship",
+  "version": "1.0.0",
+  "description": "Build a whole project end to end from a spec file: research, milestones, real-tool testing, cross-platform CI, docs, audit, release and launch kit.",
+  "author": {
+    "name": "Aaxis-em"
+  },
+  "repository": "https://github.com/aaxis-em/spec2ship",
+  "license": "MIT",
+  "keywords": ["skill", "spec", "release", "automation"]
+}

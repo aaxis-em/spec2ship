@@ -1,0 +1,15 @@
+{
+  "name": "spec2ship",
+  "description": "The spec-to-ship skill for Claude Code: turn a spec into a shipped, installable project.",
+  "owner": {
+    "name": "Aaxis-em"
+  },
+  "plugins": [
+    {
+      "name": "spec-to-ship",
+      "source": "./",
+      "description": "Build a whole project end to end from a spec file and ship an installable release.",
+      "version": "1.0.0"
+    }
+  ]
+}
