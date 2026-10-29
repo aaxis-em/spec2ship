@@ -1,7 +1,7 @@
 {
   "name": "spec-to-ship",
-  "version": "1.0.0",
-  "description": "Build a whole project end to end from a spec file: research, milestones, real-tool testing, cross-platform CI, docs, audit, release and launch kit.",
+  "version": "1.1.0",
+  "description": "Take a product idea or a spec file to a shipped project: market and feasibility research, spec, milestones, real-tool testing, cross-platform CI, docs, audit, release and launch kit.",
   "author": {
     "name": "Aaxis-em"
   },
